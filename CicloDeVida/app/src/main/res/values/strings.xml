@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CicloDeVida</string>
+    <string name="bt_act2_go">Ir para Tela 2</string>
+    <string name="tela2">TELA 2</string>
+</resources>

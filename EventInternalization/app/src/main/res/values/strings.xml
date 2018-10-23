@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exercise 01</string>
+    <string name="gas_label">Gasoline</string>
+    <string name="alc_label">Alcohol</string>
+    <string name="price_gas">Gasoline prince</string>
+    <string name="price_alc">Alcohol price</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="best_gas">The best option is: Gasoline</string>
+    <string name="best_alc">The best option is: Alcohol</string>
+    <string name="no_best">Both options are equivalent.</string>
+
+</resources>
