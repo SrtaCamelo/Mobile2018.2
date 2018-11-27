@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActivityForResult_camelo</string>
+    <string name="name_hint">Nome</string>
+    <string name="curso_label">Curso</string>
+    <string name="select_label">Selecionar</string>
+    <string name="solicitar_hint">Solicitação</string>
+    <string name="lc">LC - Licenciatura em Computação</string>
+    <string name="bcc">BCC - Bacharelado em Ciência da Computação</string>
+    <string name="bsi">BSI - Bacharelado em Sistemas de Informação</string>
+    <string name="selecione">Você precisa Selecionar uma opção!</string>
+</resources>
